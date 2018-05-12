@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3900
     wikipedia: http://en.wikipedia.org/wiki/Sherwin_Cody
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19719#The-Art-Of-Writing--amp--Speaking-The-English-LanguageWord-Study-and-Composition--amp--Rhetor_
 gutenberg_bookshelf: Language Education
 gutenberg_issued: '2006-11-05'
 gutenberg_type: Text
